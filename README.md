@@ -1,6 +1,18 @@
-# 💫 About Me:
-🔭 I’m currently working on Springboot microservices<br>👯 I’m looking to collaborate on AI projects<br>🌱 I’m currently learning AIML and Cloud<br> 💬 Ask me about **Technology and Science**<br>
+<h1 align="center">Hi 👋, I'm Anwesha</h1>
+<h3 align="left">Connect with me: anweshax2001@gmail.com</h3>
+<p align="left">
+</p>
+
+
+🔭 I’m currently working on **Springboot microservices**<br>
+👯 I’m looking to collaborate on **AI projects**<br>
+🌱 I’m currently learning **AIML and Cloud**<br> 
+💬 Ask me about **Technology and Science**<br>
 ⚡ Fun fact *I write poems and short stories*
+
+# 💫 About Me:
+As a developer, I bring a strong foundation in programming languages, algorithms, and data structures, complemented by hands-on experience in Java, Spring Boot microservices, and React. My passion for technology and problem-solving allows me to deliver efficient and innovative solutions in fast-paced environments. I am constantly expanding my expertise and staying informed on industry advancements, with a particular interest in artificial intelligence. I am eager to apply my skills and contribute to impactful projects, driving success and innovation in the tech industry.
+
 
 
 ## 🌐 Socials:
